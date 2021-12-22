@@ -8,4 +8,4 @@ using Blowfish.Create your own key using Java key tool.
 
 ### Output
 
-![output](Program7_Output.png)
+![output](program7_Output.png)
