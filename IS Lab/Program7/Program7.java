@@ -15,8 +15,8 @@ public class RC4 {
 		cipher.init(cipher.DECRYPT_MODE,secretkey);
 		byte[] decrypted = cipher.doFinal(encrypted);
 		System.out.println("Original String " + inputtext);
-		System.out.println("Encrypted " + new String(encrypted));
-		System.out.println("Decrypted " + new String(decrypted));
+		System.out.println("Encrypted text" + new String(encrypted));
+		System.out.println("Decrypted text" + new String(decrypted));
 		
 	}
 
