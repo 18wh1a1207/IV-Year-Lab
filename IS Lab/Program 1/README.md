@@ -8,6 +8,6 @@ program should XOR each character in this string with 0 and displays the result.
 
 ### Output
 
-![output](program1_output.png)
+![output](program1_Output.png)
 
 
