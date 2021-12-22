@@ -17,6 +17,6 @@ c.Hill Cipher
 ![output](Substitution.png)
 
 ### Hill Cipher Output
-![output](HillCipher.png)
+![output](Hill_Cipher.png)
 
 
