@@ -7,4 +7,4 @@ A Java program to implement RSA algorithm.
 
 ### Output
 
-![output](program8_Output.png)
+![output](Program8_Output.png)
